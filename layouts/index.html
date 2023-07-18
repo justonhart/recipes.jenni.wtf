@@ -7,9 +7,11 @@
             {{.Content}}
         </div>
         <div>
-            {{range first 10 .Site.Pages}}
-                {{.Render "li"}}
-            {{end}}
+            <ul>
+                {{range .Site.RegularPages }} 
+                    {{.Render "li"}}
+                {{end}}
+            </ul>
         </div>
     </main>
 {{end}}
