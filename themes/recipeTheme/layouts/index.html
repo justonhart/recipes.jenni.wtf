@@ -1,0 +1,15 @@
+{{define "main"}}
+    <main>
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+        <div class="homepage-content">
+            {{.Content}}
+        </div>
+        <div>
+            {{range first 10 .Site.Pages}}
+                {{.Render "li"}}
+            {{end}}
+        </div>
+    </main>
+{{end}}

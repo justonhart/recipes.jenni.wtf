@@ -1,0 +1,4 @@
+baseURL='https://recipes.jenni.wtf/'
+languageCode = 'en-US'
+title = 'Jennis Recipes'
+theme = 'recipeTheme'
