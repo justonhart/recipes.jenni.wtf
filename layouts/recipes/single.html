@@ -7,5 +7,6 @@
         <article>
             {{.Content}}
         </article>
+        <div>Tags: {{range .Params.Tags}} <a href="/tags/{{. | urlize}}">{{.}}</a> {{end}}</div>
     </section>
 {{end}}
