@@ -4,8 +4,9 @@
             {{.Content}}
         </div>
         <div>
+            <h2>Recently added:</h2>
             <ul>
-                {{range .Site.RegularPages }} 
+                {{range first 5 .Site.RegularPages }} 
                     {{.Render "li"}}
                 {{end}}
             </ul>

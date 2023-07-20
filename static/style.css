@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: auto;
     padding: 0;
     background-color: rgb(46, 45, 45);
     color: rgb(214, 212, 208);
@@ -10,18 +10,40 @@ a {
 }
 
 #siteHeader{
-    width: 100%;
     padding: .5em 1em;
+    padding-right: 0;
     background-color: rgb(41, 41, 41);
     position: sticky;
     top: 0;
 }
 
-#homelink {
+#siteHeader a{
+    padding-right: 1%;
+    text-decoration: none;
+}
+
+#siteHeader a:hover{
+    text-decoration: underline;
+}
+
+#homelink:link{
     font-size: x-large;
     padding-right: 1%;
+    text-decoration: none;
+}
+
+#homelink:hover{
+    text-decoration: underline;
 }
 
 #content{
     margin: 1em;
+}
+
+footer{
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }

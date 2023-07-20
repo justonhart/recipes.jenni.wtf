@@ -1,6 +1,8 @@
 ---
 title: "Tomato Sauce"
 date: 2023-07-17T17:48:17-05:00
+categories:
+tags:
 ---
 
 ## Ingredients

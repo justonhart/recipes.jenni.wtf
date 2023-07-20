@@ -1,6 +1,10 @@
 ---
 title: "Hard Boiled Eggs"
 date: 2023-07-10T21:04:47-05:00
+categories:
+- Food
+tags:
+- Eggs
 ---
 
 ## Ingredients

@@ -1,3 +1,7 @@
 baseURL='https://recipes.jenni.wtf/'
 languageCode = 'en-US'
 title = 'Jennis Recipes'
+
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
