@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(46, 45, 45);
+    color: rgb(214, 212, 208);
+}
+
+a {
+    color: rgb(214, 212, 208);
+}
+
+#siteHeader{
+    width: 100%;
+    padding: .5em 1em;
+    background-color: rgb(41, 41, 41);
+    position: sticky;
+    top: 0;
+}
+
+#homelink {
+    font-size: x-large;
+    padding-right: 1%;
+}
+
+#content{
+    margin: 1em;
+}

@@ -1,3 +1,7 @@
-<li>
-    <h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
-</li>
+{{define "main"}}
+<ul>
+    {{range .Pages}}
+        {{.Render "li"}}
+    {{end}}
+</ul>
+{{end}}
