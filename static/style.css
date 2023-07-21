@@ -42,8 +42,13 @@ a {
 
 footer{
     text-align: center;
-    padding: 1em 0;
+    padding-bottom: 1em;
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: rgb(41, 41, 41);
+}
+
+footer hr{
+    margin-top: 0;
 }
