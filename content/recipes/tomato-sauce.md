@@ -19,5 +19,5 @@ tags:
 1. Heat oil in skillet over medium heat, Add onion and garlic; cook until onion is translucent
 2. Add all other ingredients
 3. Bring to boil; simmer to desired thickness
-4. (If desired) blend result to reduce texture
+4. (If desired) blend to reduce texture
 
