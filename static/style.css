@@ -37,7 +37,9 @@ a {
 }
 
 #content{
-    margin: 1em;
+    margin: auto;
+    width: 80%;
+    padding-bottom: 2em;
 }
 
 footer{
