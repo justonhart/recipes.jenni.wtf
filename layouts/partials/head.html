@@ -1,1 +1,2 @@
-<link rel="stylesheet" href="{{.Site.BaseURL}}/style.css">
+<link rel="stylesheet" href="{{.Site.BaseURL}}style.css">
+<title>{{ if .IsHome }}Jenni's Recipes{{ else if .IsPage }}{{ .Page.Title }} Recipe{{ else }}Jenni's Recipes - {{.Page.Title}}{{ end }}</title>
