@@ -22,7 +22,7 @@ tags:
 * 1/2 cup fresh lemon juice (5-6 lemons)
 * 1/4 cup grated lemon zest
 * 6 egg yolks
-* 1/2 teaspoon xantam gum
+* 1/2 teaspoon xanthan gum
 * 2 tbsp unflavored collagen powder OR 1 tsp unflavored gelatin
 
 ## Preparation
@@ -38,7 +38,7 @@ tags:
 2. Whisk in egg yolks and put over low heat
 3. Whisk until curd begins to thicken
 4. Strain into small bowl
-5. Whisk in thickening agent until dissolved and smooth
+5. Whisk in thickening agents until dissolved and smooth
 6. Fill prepared crust
 7. Bake at 350 for 15 minutes
 8. Remove and cool
