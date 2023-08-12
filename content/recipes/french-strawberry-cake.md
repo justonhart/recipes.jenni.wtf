@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Ingredients
-* 1 1/3 cups all-purpouse flour
+* 1 1/3 cups all-purpose flour
 * 1 1/4 tsp baking powder
 * 1/4 tsp sea salt
 * 1/2 cup unsalted butter (softened to room temp)
