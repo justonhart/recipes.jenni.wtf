@@ -5,6 +5,7 @@ categories:
 - Food
 tags:
 - Tomato
+- Sauce
 ---
 
 ## Ingredients
