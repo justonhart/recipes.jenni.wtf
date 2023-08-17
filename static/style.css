@@ -10,6 +10,10 @@ a {
     color: rgb(214, 212, 208);
 }
 
+h2 {
+   font-size: large; 
+}
+
 #siteHeader{
     padding: .5em 1em;
     padding-right: 0;
