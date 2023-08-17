@@ -2,7 +2,7 @@
 title: "Old Fashioned"
 date: 2023-07-10T21:15:09-05:00
 categories:
-- Drinks
+- Drink
 tags:
 - Whiskey
 - Bitters
