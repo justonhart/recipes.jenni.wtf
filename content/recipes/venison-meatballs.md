@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Ingredients
-- 1 lb venison
+- 1 lb ground venison
 - 1/2 cup whole milk
 - 1/2 cup panko breadcrumbs
 - 1/2 cup grated parmesan cheese
