@@ -5,6 +5,7 @@ categories:
 - Food
 tags:
 - Sauce
+- Oriental
 ---
 
 ## Ingredients
