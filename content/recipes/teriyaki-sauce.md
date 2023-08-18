@@ -11,10 +11,11 @@ tags:
 ## Ingredients
 - 2 cups water
 - 1/2 cup low-sodium soy sauce
-- 1/2 cup brown sugar
+- 1/4 cup brown sugar
 - 4 tbsp honey
 - 2 tsp fresh ginger, minced
 - 2 tsp fresh garlic, minced
+- 2 tsp red pepper flakes
 
 ## Preparation
 1. Whisk all ingredients together over medium heat until boiling
