@@ -29,7 +29,7 @@ tags:
 
 ## Preparation
 1. Heat the olive oil in a large pot over medium-high heat
-2. Add onion, celery, carrots and zuccini. Cook until vegetables are tender, 3 to 5 minutes
+2. Add onion, celery, carrots and zuccini. Cook until vegetables are tender, 3 to 5 minutes. Once tender, add garlic and roast for 30 seconds to 1 minute.
 3. Add tomatoes, vegetable broth, tomato paste, and Italian seasoning; bring to a simmer
 4. Add white beans, kidney beans, green beans, and pasta. Simmer for 10 to 15 minutes or until pasta and veggies are tender.
 5. Season with salt and pepper to taste.
