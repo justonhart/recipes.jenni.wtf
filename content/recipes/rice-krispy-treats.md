@@ -6,7 +6,6 @@ categories:
 tags:
 - Dessert
 - Marshmallow
-draft: true
 ---
 
 ## Ingredients
