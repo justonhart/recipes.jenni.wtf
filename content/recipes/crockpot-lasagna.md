@@ -24,8 +24,8 @@ tags:
 
 ### Cheese Filling
 * 24 ounces ricotta cheese
-* 1 cup shredded mozzarella cheese for filling
-* 1/4 cup grated parmesan cheese for filling
+* 1 cup shredded mozzarella cheese
+* 1/4 cup grated parmesan cheese
 * 1 egg
 
 ## Preparation
