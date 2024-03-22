@@ -25,3 +25,6 @@ tags:
 4. Gradually add dry ingredients and milk to creamed mixture, alternating  between dry ingredients and milk. 
 5. Grease a 8x8 or 9x9 square baking pan. Spread batter evenly and bake for 20-25 minutes. Cool completely on a wire rack. 
 6. Top with whipped cream and strawberries. Enjoy!
+
+## Related recipes
+* [Whipped cream](../whipped-cream/)
