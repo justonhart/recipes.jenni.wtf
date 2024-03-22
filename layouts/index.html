@@ -3,12 +3,12 @@
         <div class="homepage-content">
             {{.Content}}
         </div>
-        <div>
-            <h2>Recently added:</h2>
-            <ul>
-                {{range first 5 .Site.RegularPages }} 
-                    {{.Render "li"}}
-                {{end}}
+        <div id="body">
+            <h2>All Tags</h2>
+            <ul class="tagList">
+				{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+					<li class="tag"><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+				{{ end }}
             </ul>
         </div>
     </main>

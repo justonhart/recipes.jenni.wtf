@@ -1,13 +1,23 @@
+:root{
+	--text-color: rgb(214, 212, 208);
+	--background-color:rgb(46, 45, 45);
+	--alt-background-color: rgb(41, 41, 41);
+}
+
 body{
     margin: auto;
     padding: 0;
-    background-color: rgb(46, 45, 45);
-    color: rgb(214, 212, 208);
+    background-color: var(--background-color);
+    color: var(--text-color); 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+#body{
+	text-align: center;
+}
+
 a {
-    color: rgb(214, 212, 208);
+    color: var(--text-color);
 }
 
 h2 {
@@ -21,7 +31,7 @@ h3 {
 #siteHeader{
     padding: .5em 1em;
     padding-right: 0;
-    background-color: rgb(41, 41, 41);
+    background-color: var(--alt-background-color);
     position: sticky;
     top: 0;
 }
@@ -69,9 +79,26 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: rgb(41, 41, 41);
+    background-color: var(--alt-background-color);
 }
 
 footer hr{
     margin-top: 0;
+}
+
+.tagList{
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+
+.tag{
+	padding: 6px 12px;
+	border: 1px solid var(--text-color);
+	border-radius: 4px;
+}
+
+.tag a{
+	text-decoration: none;
 }
