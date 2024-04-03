@@ -5,7 +5,6 @@ categories:
 - Food
 tags:
 - Venison
-- Appetizer
 - Party
 - Crockpot
 ---

@@ -6,7 +6,6 @@ categories:
 tags:
 - Crockpot
 - Meal Prep
-- Italian
 ---
 
 ## Ingredients

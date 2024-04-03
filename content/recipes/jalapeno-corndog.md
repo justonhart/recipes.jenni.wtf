@@ -4,7 +4,6 @@ date: 2024-02-11T17:13:50-06:00
 categories:
 - Food
 tags:
-- American
 - Fried
 ---
 

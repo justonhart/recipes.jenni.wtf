@@ -6,7 +6,6 @@ categories:
 tags:
 - Tomato
 - Sauce
-- Italian
 ---
 
 ## Ingredients
