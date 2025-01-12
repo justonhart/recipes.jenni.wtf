@@ -15,7 +15,7 @@ tags:
 - 2 lbs lean ground beef
 - large yellow onion, finely chopped
 - 3 cloves garlic, finely minced,
-- 2 14.5oz cans of diced tomatoes with green chiles
+- 2 14.5oz cans of Rotel (1 mild, 1 hot)
 - 3 8oz cans of tomato sauce
 - 1/2 cup water OR beef broth
 - 2 tbsp chili powder
