@@ -21,5 +21,8 @@ tags:
 - a shake of salt
 
 ## Preparation
-1. Mix all ingredients, pour into greased pan
+1. Mix all ingredients, pour into greased loaf pan
 2. Bake at 325 for an hour or until toothpick comes out clean 
+
+## Notes
+- If baking in muffin pan, bake for 20 minutes
