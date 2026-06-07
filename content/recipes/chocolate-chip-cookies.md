@@ -3,19 +3,19 @@ title: "Chocolate Chip Cookies"
 date: 2023-08-20T09:04:56-05:00
 categories:
 - Food
-tags:
-- Cookie
+- Cookies
 - Dessert
+tags:
 - Chocolate
 ---
 
 ## Ingredients
-- 2 1/4 cups all-purpose flour
+- 2 ¼ cup all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
 - 1 cup (2 sticks) butter, softened
-- 3/4 cup granulated sugar
-- 3/4 cup packed brown sugar
+- ¾ cup granulated sugar
+- ¾ cup packed brown sugar
 - 1 tsp vanilla extract
 - 2 large eggs
 - 2 cups (12 oz) semi-sweet chocolate chips
@@ -31,4 +31,3 @@ tags:
 7. Drop onto ungreased baking sheets, optionally lined with parchment paper
 8. Bake for 9 to 11 minutes, or until golden-brown
 9. Cool on baking sheets for 2 minutes; move to wire racks to cool completely
-

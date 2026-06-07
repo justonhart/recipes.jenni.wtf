@@ -3,15 +3,15 @@ title: "Rice Krispy Treats"
 date: 2023-08-16T21:37:12-05:00
 categories:
 - Food
-tags:
 - Dessert
+tags:
 - Marshmallow
 ---
 
 ## Ingredients
 - 3 tbsp butter
-- 10oz OR 5 1/2 cups mini marshmallows
-- 6 cups Rice Krispies 
+- 10oz OR 5 ½ cup mini marshmallows
+- 6 cups Rice Krispies
 
 ## Preparation
 1. Melt butter in large saucepan

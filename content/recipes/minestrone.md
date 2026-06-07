@@ -3,29 +3,29 @@ title: "Minestrone"
 date: 2023-08-16T18:51:01-05:00
 categories:
 - Food
-tags:
-- Soup
-- Veggie
 - Meal Prep
+- Soup
+tags:
+- Vegetable
 ---
 
 ## Ingredients
 - 2 tbsp olive oil
-- 3/4 cup diced onion
-- 1/2 cup sliced celery
-- 1/2 cup carrots, peeled & sliced
+- ¾ cup diced onion
+- ½ cup sliced celery
+- ½ cup carrots, peeled & sliced
 - 1 zucchini, quartered & sliced
 - 2 teaspoons minced garlic
 - 14oz diced tomatoes
 - 4 cups vegetable broth
-- 1/4 cup tomato paste
+- ¼ cup tomato paste
 - 2 tsp Italian seasoning
 - 15 oz small white beans, drained & rinsed
 - 15 oz kidney beans, drained & rinsed
-- 1/2 cup frozen cut green beans
-- 1/2 cup small pasta of choice
+- ½ cup frozen cut green beans
+- ½ cup small pasta of choice
 - 2 cups baby spinach leaves
-- 2 tbsp chopped parsley 
+- 2 tbsp chopped parsley
 
 ## Preparation
 1. Heat the olive oil in a large pot over medium-high heat

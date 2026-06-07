@@ -3,9 +3,10 @@ title: "Beef Bulgogi"
 date: 2023-08-17T22:15:07-05:00
 categories:
 - Food
+- Asian
+- Dinner
 tags:
 - Beef
-- Oriental
 ---
 
 ## Ingredients
@@ -14,16 +15,16 @@ tags:
 - 1 tbsp rice wine
 - 2 tbsp brown sugar
 - 1 tbsp white sugar
-- 1/4 cup onion, puree or finely chipped
-- 1 1/2 - 2 tbsp minced garlic
-- 1 - 1 1/2 tsp minced ginger
+- ¼ cup onion, puree or finely chipped
+- 1 ½ - 2 tbsp minced garlic
+- 1 - 1 ½ tsp minced ginger
 - 1 green onion, finely chopped
-- 1/4 teaspoon black pepper
+- ¼ teaspoon black pepper
 - 1 tbsp sesame oil
-- 1/2 tsp sesame seeds
+- ½ tsp sesame seeds
 
 ## Preparation
 1. Prepare marinade
 2. Add marinade to meat 3tbsp at a time; mix evenly. Make sure to separate meat while mixing; marinade for at least 30 to 45 minutes
-3. Heat 1 1/2 tsp vegetable oil in pan; cook meat and veggies together over medium-high heat; Add green onions shortly before finishing
+3. Heat 1 ½ tsp vegetable oil in pan; cook meat and veggies together over medium-high heat; Add green onions shortly before finishing
 4. Garnish with sesame seeds; serve with rice

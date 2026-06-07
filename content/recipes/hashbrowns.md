@@ -3,9 +3,9 @@ title: "Hashbrowns"
 date: 2023-08-16T21:28:14-05:00
 categories:
 - Food
+- Breakfast
 tags:
 - Potato
-- Breakfast
 ---
 
 ## Ingredients

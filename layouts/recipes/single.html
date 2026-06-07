@@ -8,6 +8,11 @@
             {{.Content}}
         </article>
         <hr>
-        <div>Tags: {{range .Params.Tags}} <a href="/tags/{{. | urlize}}">{{.}}</a> {{end}}</div>
+        {{ with .Params.Categories }}
+        <div>Categories:{{ range . }} <a href="/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}</div>
+        {{ end }}
+        {{ with .Params.Tags }}
+        <div>Tags:{{ range . }} <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</div>
+        {{ end }}
     </section>
 {{end}}

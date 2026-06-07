@@ -3,28 +3,30 @@ title: "Spicy Cucumber Salad"
 date: 2023-08-17T22:26:44-05:00
 categories:
 - Food
-tags:
-- Oriental
 - Salad
+- Asian
+- Side
+tags:
+- Vegetable
 - Spicy
-- Veggie
 ---
 
 ## Ingredients
+
 ### Salad
 - 1 cucumber, peeled, seeded & cut into small pieces
-- 1/2 tbsp salt (for cucumber)
+- ½ tbsp salt (for cucumber)
 - 1 tbsp red onion, chopped or thinly sliced
 - 1 cup lettuce, chopped (optional)
 
 ### Dressing
-- 1 1/2 tbsp soy sauce
+- 1 ½ tbsp soy sauce
 - 1 tbsp brown rice vinegar
-- 1/2 tbsp sugar
-- 1/2 tbsp Korean red pepper flakes
-- 1/2 tsp garlic, minced
+- ½ tbsp sugar
+- ½ tbsp Korean red pepper flakes
+- ½ tsp garlic, minced
 - 1 tsp sesame oil
-- 1/2 tsp sesame seeds (garnish)
+- ½ tsp sesame seeds (garnish)
 
 ## Preparation
 1. Salt cucumber & let rest for 10 minutes; after, rinse in cold water and drain excess water

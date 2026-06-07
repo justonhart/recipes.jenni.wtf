@@ -1,35 +1,38 @@
 ---
 title: "Keto Lemon Bars"
 date: 2023-07-20T19:45:31-05:00
-categories: 
+categories:
 - Food
-tags:
+- Bars
 - Dessert
 - Keto
+tags:
 - Lemon
 ---
 
 ## Ingredients
+
 ### Crust
-* 6 tablespoons butter
-* 2 cups fine blanched almond flour
-* 1/3 cup granulated sugar substitute
-* 1 tbsp freshly grated lemon zest
+- 6 tablespoons butter
+- 2 cups fine blanched almond flour
+- ⅓ cup granulated sugar substitute
+- 1 tbsp freshly grated lemon zest
 
 ### Filling
-* 1/2 cup butter
-* 1/2 cup granulated sugar substitute
-* 1/2 cup fresh lemon juice (5-6 lemons)
-* 1/4 cup grated lemon zest
-* 6 egg yolks
-* 1/2 teaspoon xanthan gum
-* 2 tbsp unflavored collagen powder OR 1 tsp unflavored gelatin
+- ½ cup butter
+- ½ cup granulated sugar substitute
+- ½ cup fresh lemon juice (5-6 lemons)
+- ¼ cup grated lemon zest
+- 6 egg yolks
+- ½ teaspoon xanthan gum
+- 2 tbsp unflavored collagen powder OR 1 tsp unflavored gelatin
 
 ## Preparation
+
 ### Crust
 1. Preheat oven to 350 degrees
 2. Mix melted butter, almond flour, sweetener, and lemon zest until fully combined
-3. Press dough evenly along bottom and 1/2 inch up sides of an 8"x8" pan. For best results, line with parchment paper for easy removal
+3. Press dough evenly along bottom and ½ inch up sides of an 8"x8" pan. For best results, line with parchment paper for easy removal
 4. Bake for 10 minutes
 5. Remove and cool while you prepare filling
 

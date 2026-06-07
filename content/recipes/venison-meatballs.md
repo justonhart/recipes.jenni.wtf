@@ -3,21 +3,22 @@ title: "Venison Meatballs"
 date: 2023-08-16T21:32:19-05:00
 categories:
 - Food
+- Dinner
 tags:
 - Venison
 ---
 
 ## Ingredients
 - 1 lb ground venison
-- 1/2 cup whole milk
-- 1/2 cup panko breadcrumbs
-- 1/2 cup grated parmesan cheese
-- 1/2 cup onion, finely chopped
-- 1/4 cup fresh parsley, minced
+- ½ cup whole milk
+- ½ cup panko breadcrumbs
+- ½ cup grated parmesan cheese
+- ½ cup onion, finely chopped
+- ¼ cup fresh parsley, minced
 - 2 tbsp extra virgin olive oil
 - 2 cloves garlic
 - 1 tsp salt
-- 1/4 tsp pepper
+- ¼ tsp pepper
 - 1 large egg
 
 ## Preparation

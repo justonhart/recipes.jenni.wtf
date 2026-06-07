@@ -3,25 +3,24 @@ title: "Cherry Chocolate Chip Cookies"
 date: 2023-08-16T18:42:13-05:00
 categories:
 - Food
-tags:
+- Cookies
 - Dessert
-- Cookie
-- Chocolate
+tags:
 - Cherry
+- Chocolate
 ---
 
 ## Ingredients
 - 1 cup butter, softened
-- 3/4 cups packed brown sugar
-- 1/2 cups granulated sugar
+- ¾ cup packed brown sugar
+- ½ cup granulated sugar
 - 2 large eggs
 - 1 tsp pure vanilla extract
-- 2 1/4 cups all-purpose flour
+- 2 ¼ cup all-purpose flour
 - 1 tsp baking soda
-- 3/4 tsp kosher salt
+- ¾ tsp kosher salt
 - 2 cups chocolate chips
-- 3/4 cup chopped maraschino cherries
-
+- ¾ cup chopped maraschino cherries
 
 ## Preparation
 1. Preheat oven to 350 and line baking sheets with parchment paper

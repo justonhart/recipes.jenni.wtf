@@ -3,10 +3,10 @@ title: "Chili"
 date: 2023-08-16T21:17:31-05:00
 categories:
 - Food
-tags:
 - Dinner
-- Crockpot
 - Meal Prep
+- Crockpot
+tags:
 - Beef
 ---
 
@@ -17,13 +17,13 @@ tags:
 - 3 cloves garlic, finely minced,
 - 2 14.5oz cans of Rotel (1 mild, 1 hot)
 - 3 8oz cans of tomato sauce
-- 1/2 cup water OR beef broth
+- ½ cup water OR beef broth
 - 2 tbsp chili powder
-- 2 1/2 tsp ground cumin
+- 2 ½ tsp ground cumin
 - 2 tsp paprika
 - 2 tsp cocoa powder
 - 1 tsp granulated sugar
-- 1/2 tsp ground coriander
+- ½ tsp ground coriander
 - 15oz dark red kidney beans, drained & rinsed
 - 15oz light red kidney beans, drained & rinsed
 
@@ -32,4 +32,3 @@ tags:
 2. Brown beef in skillet; drain and add to crockpot
 3. Add tomatoes, tomato sauce, water or beef broth, and seasonings. Stir, cook on low heat for 5 to 6 hours
 4. Stir in kidney beans and heat for 10 minutes
-

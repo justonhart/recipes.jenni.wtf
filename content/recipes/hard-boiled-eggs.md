@@ -8,8 +8,8 @@ tags:
 ---
 
 ## Ingredients
-* Eggs
-* Water
+- Eggs
+- Water
 
 ## Preparation
 1. Place eggs in saucepan and pour in cold water to cover; place over high heat. When the water starts to simmer, turn off heat, cover the pan and let stand for 17 minutes.

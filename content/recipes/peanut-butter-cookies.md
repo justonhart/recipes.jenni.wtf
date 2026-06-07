@@ -3,9 +3,9 @@ title: "Peanut Butter Cookies"
 date: 2023-08-16T18:39:34-05:00
 categories:
 - Food
-tags:
-- Cookie
+- Cookies
 - Dessert
+tags:
 - Peanut Butter
 ---
 
@@ -16,7 +16,7 @@ tags:
 - 1 cup peanut butter
 - 1 tsp baking powder
 - 1 tsp baking soda
-- 2 1/2 cups flour
+- 2 ½ cup flour
 - 2 eggs
 
 ## Preparation

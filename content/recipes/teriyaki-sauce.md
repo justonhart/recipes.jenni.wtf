@@ -3,15 +3,15 @@ title: "Teriyaki Sauce"
 date: 2023-08-16T21:42:37-05:00
 categories:
 - Food
-tags:
 - Sauce
-- Oriental
+- Asian
+tags:
 ---
 
 ## Ingredients
 - 2 cups water
-- 1/2 cup low-sodium soy sauce
-- 1/4 cup brown sugar
+- ½ cup low-sodium soy sauce
+- ¼ cup brown sugar
 - 4 tbsp honey
 - 2 tsp fresh ginger, minced
 - 2 tsp fresh garlic, minced
